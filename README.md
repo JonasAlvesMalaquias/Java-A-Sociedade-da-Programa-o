@@ -19,7 +19,11 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
+
+https://github.com/JonasAlvesMalaquias
+
 https://github.com/JonasAlvesMalaquias/Java-A-Sociedade-da-Programa-o
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
