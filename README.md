@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    
 </p>
 
 <p align="center">
@@ -8,10 +8,7 @@
 </p>
 
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
+
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
