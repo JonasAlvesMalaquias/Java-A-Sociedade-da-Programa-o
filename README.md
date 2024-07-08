@@ -11,7 +11,7 @@
 
 </p>
 
-[📕 Clique aqui para ler o ebook](Java-A-Sociedade-da-Programacao.pdf)
+[📕 Clique aqui para ler o ebook](https://github.com/JonasAlvesMalaquias/Java-A-Sociedade-da-Programa-o/blob/main/Java%20A%20Sociedade%20da%20Programa%C3%A7%C3%A3o.pdf)
 
 # Projeto EBOOK Gerado por I.A.s
 
